@@ -1,6 +1,6 @@
-# Welcome to Syntropix.ai
+# Welcome to Syntropix AI
 
-At **Syntropix.ai**, we strive to embody the principles of **Syntropy**, driving innovation and collaboration to unlock the full potential of intelligent systems.
+At **Syntropix AI**, we strive to embody the principles of **Syntropy**, driving innovation and collaboration to unlock the full potential of intelligent systems.
 
 ## What We Stand For
 
